@@ -1,6 +1,6 @@
 # User Management Full Stack App
 
-Welcome to the **User Management Full Stack App**! This project is a comprehensive full stack application designed to manage users efficiently. It features a React front end with a clean and modern Material-UI (MUI) design, and a Django back end written in Python for robust and secure user management.
+Welcome to the **User Management Full Stack App**! This project is a full stack application designed to manage users. It features a React front end with a clean and modern Material-UI (MUI) design, and a Django back end written in Python for user management.
 
 ## Table of Contents
 
